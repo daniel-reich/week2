@@ -1,0 +1,12 @@
+body {
+    background-image: url("http://www.parquetorresdelpaine.cl/upload/contenido/b45e8ef1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: #cccccc;
+
+
+}
+
+p{
+   background-color: rgba(255, 255, 255, .7);
+}
